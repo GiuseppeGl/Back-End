@@ -96,7 +96,7 @@ if($my_db->connect_error) {
 
 
 // tutta dir per DB 
-$dir_per_db = "http://ifoa-backend.com/S1-L4/" . $tutta_dir;
+$dir_per_db = "http://localhost.com/S1-L4/" . $tutta_dir;
 
 
 // Seleziono il DB
