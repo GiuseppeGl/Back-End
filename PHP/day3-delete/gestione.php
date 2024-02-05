@@ -95,7 +95,7 @@ if($my_db->connect_error) {
 }
 
 
-// tutta dir per DB 
+// tutta dir per DB  occhio al path
 $dir_per_db = "http://localhost.com/S1-L4/" . $tutta_dir;
 
 
